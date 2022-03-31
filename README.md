@@ -1,6 +1,11 @@
 # Formik-Practice
 
-A program that tracks your curser with simulated eye movement. An Exercise meant to test our ability to manipulate a grid structure and replicate a moving eye with HTML, Javascript, and CSS. 
+A formik form with two inputs that give errors if:
+
+* either field is submited empty
+* if the email field is not in the format of an email
+
+Will send an alert when submited succesfully. 
 
 ## How to Run
 
